@@ -1,5 +1,5 @@
-# observability-pipelines
-A repo for testing observability tools; grafana, prometheus and blackbox on a hello-world project
+# K8-clusters
+A repo for testing kubernetes clusters
 
 # To test the deployment of the guest book:
 > ## **Deploying the redis-leader deployment and service**
